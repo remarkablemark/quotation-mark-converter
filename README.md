@@ -6,7 +6,7 @@
 
 💬 Convert straight quotation marks to curly typographic ones and vice versa.
 
-- [Quotation Mark Converter](https://remarkablemark.org/quotation-mark-converter/)
+[Convert Quotation Marks](https://remarkablemark.org/quotation-mark-converter/)
 
 ## Features
 
