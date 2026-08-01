@@ -1,18 +1,20 @@
-# vite-react-tailwind-template
+# quotation-mark-converter
 
-[![build](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/build.yml)
-[![test](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/test.yml/badge.svg)](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/test.yml)
+[![build](https://github.com/remarkablemark/quotation-mark-converter/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/quotation-mark-converter/actions/workflows/build.yml)
+[![test](https://github.com/remarkablemark/quotation-mark-converter/actions/workflows/test.yml/badge.svg)](https://github.com/remarkablemark/quotation-mark-converter/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/remarkablemark/quotation-mark-converter/graph/badge.svg?token=TxJbWIZZsP)](https://codecov.io/gh/remarkablemark/quotation-mark-converter)
 
-⚡ Vite React Tailwind Template
+💬 Convert quotation marks:
+
+- [Quotation Mark Converter](https://remarkablemark.org/quotation-mark-converter/)
 
 ## Install
 
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablemark/vite-react-tailwind-template.git
-cd vite-react-tailwind-template
+git clone https://github.com/remarkablemark/quotation-mark-converter.git
+cd quotation-mark-converter
 ```
 
 Install the dependencies:

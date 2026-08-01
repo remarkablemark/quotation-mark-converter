@@ -1,7 +1,7 @@
 {
-  "name": "Vite React Tailwind Template",
-  "short_name": "Vite React Tailwind Template",
-  "description": "Vite React Tailwind Template",
+  "name": "Quotation Mark Converter",
+  "short_name": "Quotation Mark Converter",
+  "description": "Quotation Mark Converter",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
